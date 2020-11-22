@@ -1,5 +1,5 @@
 ### Hi there 👋 Its me Sanjay,
-A python develoepr passionate about Machine Learning. Experienced software engineer. Skilled in python, deep learning and computer vision.
+A python developer passionate about Machine Learning. Experienced software engineer. Skilled in python, deep learning and computer vision.
 
 - 🔭 I work on AI/ML Projects
 - 🌱 I’m currently (deep)learning with Tensorflow
