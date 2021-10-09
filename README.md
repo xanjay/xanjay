@@ -1,8 +1,8 @@
 ### Hi there 👋 Its me Sanjay,
-A python developer passionate about Machine Learning. Experienced software engineer. Skilled in python, deep learning and computer vision.
+Experienced software engineer specialized in data engineering and machine learning. Skilled in python, deep learning and computer vision.
 
 - 🔭 I work on AI/ML Projects
-- 🌱 I’m currently (deep)learning with Tensorflow
+- 🌱 I’m currently (deep)learning with Pytorch
 - 👯 Open for Hire
 - ⚡ Fun fact: I like to Seek Discomfort
 
