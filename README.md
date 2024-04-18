@@ -1,7 +1,7 @@
 ### Hi there 👋 Its me Sanjay,
-Experienced software engineer specialized in data engineering and machine learning. Skilled in python, deep learning and computer vision.
+Experienced software engineer specialized in data engineering and machine learning. Professional in Python, SQL and Big Data. Beginner in Deep learning and computer vision.
 
-- 🔭 I work on AI/ML Projects
+- 🔭 I work with data
 - 🌱 I’m currently (deep)learning with Pytorch
 - 👯 Open for Hire
 - ⚡ Fun fact: I like to Seek Discomfort
