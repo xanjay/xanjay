@@ -10,13 +10,13 @@ Experienced software engineer specialized in data engineering and machine learni
 
 <p align="left">
   <img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-  <img title="SQL" src="https://w0.pngwave.com/png/286/519/microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-png-clip-art-thumbnail.png" width="40" height="40" />
+  <img title="SQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" width="100" height="40" />
 	<img title="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
-  <img title="Tensoflow" src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" width="50" height="40" />
-  <img title="Keras" src="https://img.pngio.com/keras-linkedin-keras-png-200_200.jpg" width="40" height="40" />
-	<img title="Django" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="100" height="40" />
-  <img title="Flask" src="https://miro.medium.com/max/480/1*MCpM5idqhNRjoWCfb_60OA.png" width="100" height="50" />
+	<img title="Spark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png" width="70" height="40" />
 	<img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
+  <img title="Pytorch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/496px-PyTorch_logo_icon.svg.png?20200318225611" width="40" height="40" />
+  <img title="Keras" src="https://keras.io/img/logo.png" width="120" height="40" />
+  <img title="Flask" src="https://miro.medium.com/max/480/1*MCpM5idqhNRjoWCfb_60OA.png" width="100" height="50" />
 	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 </p>
 
