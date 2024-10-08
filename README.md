@@ -1,6 +1,6 @@
 ### Hi there 👋 Its me Sanjay,
-Experienced Data Engineer specializing in data warehousing and data lake within the AWS cloud environment.
-Professional in Python, SQL and Big Data. Beginner in Deep learning and computer vision.
+Experienced Data Engineer specializing in data warehousing, data lake and AI.
+Professional in Python, SQL and Big Data.
 
 - 🔭 I work with data
 - 🌱 I’m currently (deep)learning with Pytorch
@@ -12,13 +12,13 @@ Professional in Python, SQL and Big Data. Beginner in Deep learning and computer
 - Programming
 	- Python, SQL, Scala, Flask, Git
 - Big Data
-	- Spark, Redshift, EMR, Glue, Athena
+	- Spark, Redshift, EMR, Glue, Athena, Dremio
 - Databases
 	- MySQL, PostgreSQL, AWS RDS
 - Infrastructure
 	- AWS, Airflow, Terraform
 - CI/CD
-	- Docker, Kubernetes, Github Actions, Jenkins
+	- Docker, Kubernetes, Github Actions
 - AI/ML
 	- Pytorch, Keras
 
